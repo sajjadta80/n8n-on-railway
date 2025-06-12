@@ -1,0 +1,4 @@
+FROM n8nio/n8n
+
+ENV GENERIC_TIMEZONE=Asia/Tehran
+EXPOSE 5678
